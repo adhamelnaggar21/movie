@@ -15,7 +15,7 @@ class MovieApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.dark,
       darkTheme: ThemeData.dark(),
-      initialRoute: AppRouteName.layoutScreen,
+      initialRoute: AppRouteName.splashScreen,
       routes: GoRoute.routs,
     );
   }

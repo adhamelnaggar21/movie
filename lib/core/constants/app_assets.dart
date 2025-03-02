@@ -12,6 +12,7 @@ class AppAssets {
   static const String iconRating = "assets/icons/Vector (7).png";
   static const String testCast = "assets/images/Rectangle 22 (1).png";
   static const String starImge = "assets/images/star 1.png";
+  static const String splashBg = "assets/images/Group 44.png";
 
   static const String testImage =
       "assets/images/1917_-_Sam_Mendes_-_Hollywood_War_Film_Classic_English_Movie_Poster_9ef86295-4756-4c71-bb4e-20745c5fbc1a 5.png";
